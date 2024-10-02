@@ -27,7 +27,7 @@ Check these things before running the project
 
 
 
-3. hbwebsite/inc/paytm/config_paytm.php
+3. weddingknots/inc/paytm/config_paytm.php
 
 [.] Go to paytm business webiste and login with your account 
     & on dashboard of paytm you will find "Developer settings" -> "api keys".
